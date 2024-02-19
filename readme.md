@@ -21,3 +21,7 @@ Version History
 ### Version 1.0.0.0
 
 Support for OJS 3.2.1
+
+Example
+---------------
+https://cyberpsychology.eu/oai?verb=ListRecords&metadataPrefix=oai_openaire
